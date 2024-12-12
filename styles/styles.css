@@ -26,7 +26,8 @@
 
   /* fonts */
   --body-font-family: 'Source Sans Pro', 'helvetica neue', helvetica, ubuntu, roboto, noto, sans-serif;
-  --heading-font-family: asar, georgia, 'Times New Roman', times, serif;
+  --heading-font-family: asar, georgia, 'helvetica neue', times, serif;
+  /* --heading-font-family: asar, georgia, 'Times New Roman', times, serif; */
   --fixed-font-family: 'Roboto Mono', menlo, consolas, 'Liberation Mono', monospace;
 
   /* body sizes */
